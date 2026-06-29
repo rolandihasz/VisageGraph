@@ -1,4 +1,4 @@
-markdown_content = """# VisageGraph: High-Performance Face Clustering & Relationship Mapping
+# VisageGraph: High-Performance Face Clustering & Relationship Mapping
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Optimization](https://img.shields.io/badge/Optimization-NVMe_Multi--threaded-success?style=for-the-badge)
